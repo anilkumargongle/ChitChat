@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ChitChat   
+   random-route: true
+   memory: 60M
